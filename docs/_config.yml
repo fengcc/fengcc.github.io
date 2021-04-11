@@ -37,7 +37,7 @@ plugins:
 disqus:
   shortname: fengcc
 
-google_analytics: G-Z9EFD0CQ1R
+google_analytics: UA-194286190-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
